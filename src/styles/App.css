@@ -1,1 +1,22 @@
 
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .todo {
+    width: 50vw;
+    display: flex;
+    justify-content: space-around;
+  }
+  input {
+    padding: 2px 2px;
+  }
+  .todo-item {
+    display: flex;
+    width: 60vw;
+  }
+  .btn {
+    margin-left: 40px;
+    margin-top: 20px;
+  }
+  
